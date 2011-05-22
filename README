@@ -1,3 +1,14 @@
+* DESCRIPTION
+
 Animates an awkward turtle in your terminal.
 
 It may not work with your OS or terminal... which is awkward!
+
+* INSTALLATION
+
+sudo gem install awkward_turtle
+
+* USAGE
+
+~$ awkward_turtle
+
