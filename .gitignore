@@ -1,0 +1,13 @@
+tmtags
+tags
+log/*
+.DS_Store
+coverage
+test/coverage
+tmp
+*.swp
+*.swo
+.idea
+doc/*
+.yardoc/
+.rvmrc
