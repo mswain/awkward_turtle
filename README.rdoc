@@ -1,0 +1,24 @@
+== AwkwardTurtle
+
+=== Description
+
+Awkward turtle awkwardly animates a turtle on your terminal.
+
+It might be incompatible with your terminal, which is, well, awkward!
+
+=== Installation
+
+gem install awkward_turtle
+
+=== Usage
+
+At a command prompt:
+
+  awkward_turtle
+
+=== Credits
+
+Written by Matthew Swain.
+Thanks to Joan Stark's ASCII Art Gallery for providing the original turtle art.
+
+
