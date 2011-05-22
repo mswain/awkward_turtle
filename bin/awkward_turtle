@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+begin
+  require 'awkward_turtle'
+rescue LoadError
+  require 'rubygems'
+  require 'awkward_turtle'
+end
+AwkwardTurtle.animate
+
