@@ -25,7 +25,7 @@ class AwkwardTurtle
     interrupted = false
     trap("INT") {interrupted = true}
     loop do
-      [ @t1, @t2].each do |t|
+      [ @t1, @t2 ].each do |t|
         exit if interrupted
         system "clear"
         puts t
